@@ -17,6 +17,7 @@ eclipse專案 Meaven打包 spring boot框架 SQL SERVER資料庫
 確認資料庫設定 application.properties
 
 ### 專案結構
+```
 src
 ├─libs
 ├─main
@@ -38,6 +39,6 @@ src
 └─com
 └─aluminum
 └─second
-
+```
 
 
